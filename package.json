@@ -1,0 +1,21 @@
+{
+	"name": "domodel-snippets-sublime",
+	"version": "1.1.2",
+	"description": "domodel snippets for Sublime Text",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thoughtsunificator/domodel-snippets-sublime.git"
+	},
+	"keywords": [
+		"javascript",
+		"sublime",
+		"text",
+		"snippets"
+	],
+	"author": "Romain Lebesle <oss@thoughtsunificator.me> (https://thoughtsunificator.me)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/thoughtsunificator/domodel-snippets-sublime/issues"
+	},
+	"homepage": "https://github.com/thoughtsunificator/domodel-snippets-sublime"
+}
