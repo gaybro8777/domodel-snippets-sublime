@@ -3,7 +3,10 @@
 import { Observable } from '../../lib/domodel/index.js'
 
 export default class extends Observable {
-
+	constructor(${1:field}) {
+		this.${1:field} = ${1:field}
+		${2}
+	}
 }
 ]]></content>
 	<tabTrigger>observable</tabTrigger>
