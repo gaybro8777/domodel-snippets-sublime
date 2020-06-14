@@ -10,3 +10,4 @@ Find it as [**domodel Snippets**](https://packagecontrol.io/packages/domodel%20S
 
 - model
 - binding
+- observable
